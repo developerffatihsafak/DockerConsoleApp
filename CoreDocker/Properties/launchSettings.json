@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CoreDocker": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
